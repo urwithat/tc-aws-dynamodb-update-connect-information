@@ -1,5 +1,9 @@
 # tc-aws-dynamodb-update-connect-information
 
+Firstly add your AWS accessKeyId & secretAccessKey in config.json
+
+
+
 cd /.../tc-aws-dynamodb-update-connect-information-repository
 
 git clone -b master https://github.com/urwithat/tc-aws-dynamodb-update-connect-information.git
